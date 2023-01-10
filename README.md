@@ -1,8 +1,8 @@
 # ProjectUAS
 
-# NAMA : NURUL AKBAR
-# NIM : 312210413
-# KELAS : TI.22.A.4
+# NAMA  : Fadhlurohman Fatikh Navintino
+# NIM   : 312210368
+# KELAS : TI.22.A4
 # LINK PENJELASAN ADA DIBAWAH INI DALAM BENTUK VIDIO
 
 Your Link Here
