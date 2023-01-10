@@ -11,7 +11,8 @@ Your Link Here
 # Tugas yang diberikan memiliki soal sebagai berikut
 
 # soal
-img
+
+![img](foto/7.png)
 
 # Penjelesan
 
@@ -104,18 +105,27 @@ img
 # Maka OUTPUT yg didaptkan adalah
 
 # HURUF T
-img
+
+![img](foto/1.png)
 
 # HURUF C
-img
+
+![img](foto/2.png)
 
 # HURUF U
-img
+
+![img](foto/3.png
 
 # HURUF L
-img
+
+![img](foto/4.png
 
 # HURUF H
-img
+
+![img](foto/5.png)
+
+# HURUF K
+
+![img](foto/6.png)
 
 Sekian penjelasan yang saya dampaikan jika masih ada kekurangan mohon dimaafkan dan teima kasih.
