@@ -102,7 +102,7 @@ Your Link Here
 
 # lalu cetak print()
 
-# Maka OUTPUT yg didaptkan adalah
+# Maka OUTPUT yg di dapatkan adalah
 
 # HURUF T
 
