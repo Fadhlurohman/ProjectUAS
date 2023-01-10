@@ -114,11 +114,11 @@ Your Link Here
 
 # HURUF U
 
-![img](foto/3.png
+![img](foto/3.png)
 
 # HURUF L
 
-![img](foto/4.png
+![img](foto/4.png)
 
 # HURUF H
 
