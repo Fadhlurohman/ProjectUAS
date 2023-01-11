@@ -3,9 +3,9 @@
 # NAMA  : Fadhlurohman Fatikh Navintino
 # NIM   : 312210368
 # KELAS : TI.22.A4
-# LINK PENJELASAN ADA DIBAWAH INI DALAM BENTUK VIDIO
 
-Your Link Here
+# LINK PENJELASAN ADA DIBAWAH INI DALAM BENTUK VIDIO
+https://youtu.be/h6oY066wk7M
 
 # Tugas membuat Package and Modul
 # Tugas yang diberikan memiliki soal sebagai berikut
